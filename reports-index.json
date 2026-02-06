@@ -1,0 +1,12 @@
+{
+  "reports": [
+    {
+      "slug": "2025-06-matterlabs",
+      "url": "https://raw.githubusercontent.com/taran-space/audit-reports/refs/heads/internal-artifacts/2025-06-matterlabs.md"
+    },
+    {
+      "slug": "2025-10-matterlabs",
+      "url": "https://raw.githubusercontent.com/taran-space/audit-reports/refs/heads/internal-artifacts/2025-10-matterlabs.md"
+    }
+  ]
+}
